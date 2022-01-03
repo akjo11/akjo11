@@ -1,3 +1,6 @@
+[![masterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--QIJ-47h1--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/5gyy0p798ap8dyfmffnw.jpg)]()
+
+
 <h1>Hi 👋, I'm Akshay Joshi</h1>
 <h3 align="center">A passionate frontend developer likes to build websites and learn new things everyday!</h3>
 
