@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **React js and frameworks**
+- 🌱 I’m currently learning **React js and other frameworks**
 
 - 📫 How to reach me **akshayjoshi4770@gmail.com**
 
