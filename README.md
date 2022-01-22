@@ -1,6 +1,9 @@
 ![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 
+
+![GitHub Views](https://komarev.com/ghpvc/?username=akjo11)
+
 <h1>Hi 👋, I'm Akshay Joshi</h1>
 <h3 align="center">A passionate frontend developer who likes to build websites and learn new things everyday!</h3>
 
