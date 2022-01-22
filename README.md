@@ -1,4 +1,4 @@
-[![masterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--QIJ-47h1--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/5gyy0p798ap8dyfmffnw.jpg)]()
+![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 
 <h1>Hi 👋, I'm Akshay Joshi</h1>
